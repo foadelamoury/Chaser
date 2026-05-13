@@ -1,0 +1,1157 @@
+fileFormatVersion: 2
+guid: 48c60018f2f608d41a05a1fdb62c3249
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2438476309963127013
+    second: elise_tileset_0
+  - first:
+      213: -6570148283604755931
+    second: elise_tileset_1
+  - first:
+      213: 6940459850073705511
+    second: elise_tileset_2
+  - first:
+      213: -2416691295618261473
+    second: elise_tileset_3
+  - first:
+      213: 6556888546699547851
+    second: elise_tileset_4
+  - first:
+      213: -8509396462830934187
+    second: elise_tileset_5
+  - first:
+      213: 977459116757067537
+    second: elise_tileset_6
+  - first:
+      213: -7051790124715755415
+    second: elise_tileset_7
+  - first:
+      213: 2875823679637667305
+    second: elise_tileset_8
+  - first:
+      213: -8839378063952857273
+    second: elise_tileset_9
+  - first:
+      213: -3338700738539555909
+    second: elise_tileset_10
+  - first:
+      213: 8109925724026802240
+    second: elise_tileset_11
+  - first:
+      213: 581468252539307099
+    second: elise_tileset_12
+  - first:
+      213: 470309634881568343
+    second: elise_tileset_13
+  - first:
+      213: 7867521154886196067
+    second: elise_tileset_14
+  - first:
+      213: 2824498252843224709
+    second: elise_tileset_15
+  - first:
+      213: -2155643655697484164
+    second: elise_tileset_16
+  - first:
+      213: 5492784221621777438
+    second: elise_tileset_17
+  - first:
+      213: -1615806030059723574
+    second: elise_tileset_18
+  - first:
+      213: 7614832382536539310
+    second: elise_tileset_19
+  - first:
+      213: 6085994624986030503
+    second: elise_tileset_20
+  - first:
+      213: 1356108022863392679
+    second: elise_tileset_21
+  - first:
+      213: -773747222404651448
+    second: elise_tileset_22
+  - first:
+      213: 1303123070711248531
+    second: elise_tileset_23
+  - first:
+      213: 1717296630113548489
+    second: elise_tileset_24
+  - first:
+      213: 3319111021589153256
+    second: elise_tileset_25
+  - first:
+      213: -4575061492546126215
+    second: elise_tileset_26
+  - first:
+      213: 4575170505918949956
+    second: elise_tileset_27
+  - first:
+      213: -4421764725159063669
+    second: elise_tileset_28
+  - first:
+      213: 3327902545904196025
+    second: elise_tileset_29
+  - first:
+      213: -5447789191315778542
+    second: elise_tileset_30
+  - first:
+      213: -8263446814494537293
+    second: elise_tileset_31
+  - first:
+      213: 2741546874829105725
+    second: elise_tileset_32
+  - first:
+      213: -2342411977864042829
+    second: elise_tileset_33
+  - first:
+      213: 6620759190462643802
+    second: elise_tileset_34
+  - first:
+      213: -7422482759753306802
+    second: elise_tileset_35
+  - first:
+      213: 920507050198272497
+    second: elise_tileset_36
+  - first:
+      213: -6010461936857331970
+    second: elise_tileset_37
+  - first:
+      213: -943921019026066689
+    second: elise_tileset_38
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: elise_tileset_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 295
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b17417737bac82ed0800000000000000
+      internalID: -2438476309963127013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elise_tileset_1
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 295
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52a981a32f422d4a0800000000000000
+      internalID: -6570148283604755931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elise_tileset_2
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 295
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72c01852677715060800000000000000
+      internalID: 6940459850073705511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elise_tileset_3
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 295
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1e15e02210367ed0800000000000000
+      internalID: -2416691295618261473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elise_tileset_4
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 263
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc49ad1b46fbefa50800000000000000
+      internalID: 6556888546699547851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elise_tileset_5
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 263
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5572ff3700d88e980800000000000000
+      internalID: -8509396462830934187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elise_tileset_6
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 263
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 117a5cc43e1a09d00800000000000000
+      internalID: 977459116757067537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elise_tileset_7
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 263
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 968b5b95e32032e90800000000000000
+      internalID: -7051790124715755415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elise_tileset_8
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 263
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9edb57d566af8e720800000000000000
+      internalID: 2875823679637667305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elise_tileset_9
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 263
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 747b5bedb78345580800000000000000
+      internalID: -8839378063952857273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elise_tileset_10
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 231
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb3f3041e5d8aa1d0800000000000000
+      internalID: -3338700738539555909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elise_tileset_11
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 231
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0409b6f4a7e3c8070800000000000000
+      internalID: 8109925724026802240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elise_tileset_12
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 232
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b54c5c08b4ac11800800000000000000
+      internalID: 581468252539307099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elise_tileset_13
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 235
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75e3f810f10e68600800000000000000
+      internalID: 470309634881568343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elise_tileset_14
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 232
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36bdcd37ecc0f2d60800000000000000
+      internalID: 7867521154886196067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elise_tileset_15
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 231
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58e8e653232a23720800000000000000
+      internalID: 2824498252843224709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elise_tileset_16
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 199
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c76b3d7248d9512e0800000000000000
+      internalID: -2155643655697484164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elise_tileset_17
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 199
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e14f2a5c52a4a3c40800000000000000
+      internalID: 5492784221621777438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elise_tileset_18
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 199
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac42b500af08399e0800000000000000
+      internalID: -1615806030059723574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elise_tileset_19
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 167
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eac5b31f4b15da960800000000000000
+      internalID: 7614832382536539310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elise_tileset_20
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 167
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a1aa3fcddbc57450800000000000000
+      internalID: 6085994624986030503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elise_tileset_21
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 167
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7af64d3df0dd1d210800000000000000
+      internalID: 1356108022863392679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elise_tileset_22
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 167
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84620ae20091345f0800000000000000
+      internalID: -773747222404651448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elise_tileset_23
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 167
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3963c50578f951210800000000000000
+      internalID: 1303123070711248531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elise_tileset_24
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 167
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c8b4ebbf2015d710800000000000000
+      internalID: 1717296630113548489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elise_tileset_25
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 135
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e5c7e383e9df0e20800000000000000
+      internalID: 3319111021589153256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elise_tileset_26
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 135
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97e383fefcd1280c0800000000000000
+      internalID: -4575061492546126215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elise_tileset_27
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 136
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44aa428b5554e7f30800000000000000
+      internalID: 4575170505918949956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elise_tileset_28
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 139
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8f8a84f86cb2a2c0800000000000000
+      internalID: -4421764725159063669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elise_tileset_29
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 136
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b9dcb7cbb51f2e20800000000000000
+      internalID: 3327902545904196025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elise_tileset_30
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 135
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 214196818909564b0800000000000000
+      internalID: -5447789191315778542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elise_tileset_31
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 103
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b948b167e6525d80800000000000000
+      internalID: -8263446814494537293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elise_tileset_32
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 103
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3a65497b5eeb0620800000000000000
+      internalID: 2741546874829105725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elise_tileset_33
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 103
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b62bcd77b41e7fd0800000000000000
+      internalID: -2342411977864042829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elise_tileset_34
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 103
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5ebdeac769a1eb50800000000000000
+      internalID: 6620759190462643802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elise_tileset_35
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 109
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4d6179814b0ef890800000000000000
+      internalID: -7422482759753306802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elise_tileset_36
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 103
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f98f4cf84c46cc00800000000000000
+      internalID: 920507050198272497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elise_tileset_37
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 106
+        width: 43
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef6cc9596bc869ca0800000000000000
+      internalID: -6010461936857331970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elise_tileset_38
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 7
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff23de495d486e2f0800000000000000
+      internalID: -943921019026066689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      elise_tileset_0: -2438476309963127013
+      elise_tileset_1: -6570148283604755931
+      elise_tileset_10: -3338700738539555909
+      elise_tileset_11: 8109925724026802240
+      elise_tileset_12: 581468252539307099
+      elise_tileset_13: 470309634881568343
+      elise_tileset_14: 7867521154886196067
+      elise_tileset_15: 2824498252843224709
+      elise_tileset_16: -2155643655697484164
+      elise_tileset_17: 5492784221621777438
+      elise_tileset_18: -1615806030059723574
+      elise_tileset_19: 7614832382536539310
+      elise_tileset_2: 6940459850073705511
+      elise_tileset_20: 6085994624986030503
+      elise_tileset_21: 1356108022863392679
+      elise_tileset_22: -773747222404651448
+      elise_tileset_23: 1303123070711248531
+      elise_tileset_24: 1717296630113548489
+      elise_tileset_25: 3319111021589153256
+      elise_tileset_26: -4575061492546126215
+      elise_tileset_27: 4575170505918949956
+      elise_tileset_28: -4421764725159063669
+      elise_tileset_29: 3327902545904196025
+      elise_tileset_3: -2416691295618261473
+      elise_tileset_30: -5447789191315778542
+      elise_tileset_31: -8263446814494537293
+      elise_tileset_32: 2741546874829105725
+      elise_tileset_33: -2342411977864042829
+      elise_tileset_34: 6620759190462643802
+      elise_tileset_35: -7422482759753306802
+      elise_tileset_36: 920507050198272497
+      elise_tileset_37: -6010461936857331970
+      elise_tileset_38: -943921019026066689
+      elise_tileset_4: 6556888546699547851
+      elise_tileset_5: -8509396462830934187
+      elise_tileset_6: 977459116757067537
+      elise_tileset_7: -7051790124715755415
+      elise_tileset_8: 2875823679637667305
+      elise_tileset_9: -8839378063952857273
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
