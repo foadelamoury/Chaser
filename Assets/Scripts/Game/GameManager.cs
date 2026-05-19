@@ -22,6 +22,8 @@ public class GameManager : NetworkSingleton<GameManager>
     public NetworkVariable<float> roundTimer = new NetworkVariable<float>(60f);
     [SerializeField] SpawnManager spawnManager;
 
+    float constantRoundTimer;
+
     public override void Awake()
     {
         base.Awake();
@@ -32,6 +34,7 @@ public class GameManager : NetworkSingleton<GameManager>
         {
             _scores[i] = 0;
         }
+        constantRoundTimer = localRoundTimer;
 
     }
 
@@ -93,8 +96,7 @@ public class GameManager : NetworkSingleton<GameManager>
             }
         }
 
-            
-            timerText.text = ((int)localRoundTimer).ToString();
+            timerText.text = ((int)roundTimer.Value).ToString();
     }
 
 
@@ -104,6 +106,7 @@ public class GameManager : NetworkSingleton<GameManager>
         if (IsServer)
         {
             if (NetworkManager.Singleton.IsListening) WinningGameClientRpc(winner);
+
         }
     }
 
@@ -114,7 +117,9 @@ public class GameManager : NetworkSingleton<GameManager>
         {
              winningText.text = winner;
              winningText.gameObject.SetActive(true);
+            roundTimer.Value = constantRoundTimer;
             Invoke(nameof(HideWinningText), 3f);
+
         }
     }
 
