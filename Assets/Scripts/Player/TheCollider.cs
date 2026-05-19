@@ -21,6 +21,9 @@ public class TheCollider : NetworkBehaviour, IDamageable
             GameManager.Instance.timerText.gameObject.SetActive(false);
         GameManager.Instance.UpdateScoreServerRpc(0); // Police wins
         GameManager.Instance.ResetPosition(transform,collider.transform);
+            GameManager.Instance.roundTimer.Value = GameManager.Instance.constantRoundTimer;
+            GameManager.Instance.localRoundTimer  = GameManager.Instance.constantRoundTimer;
+
 
 
         }

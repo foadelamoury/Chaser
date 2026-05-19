@@ -1,8 +1,6 @@
 using TMPro;
 using Unity.Netcode;
-using Unity.Services.Authentication;
 using UnityEngine;
-using UnityEngine.SocialPlatforms.Impl;
 // using static LobbyManager; // Be careful with statics in Network code
 
 public class GameManager : NetworkSingleton<GameManager>
@@ -12,17 +10,17 @@ public class GameManager : NetworkSingleton<GameManager>
 
     public TextMeshProUGUI ScoreText;
 
-    
+
 
     private float[] _scores;
 
     private bool isRoundActive = true;
-  
-    [SerializeField] float localRoundTimer = 120f;
+
+    public float localRoundTimer = 120f;
     public NetworkVariable<float> roundTimer = new NetworkVariable<float>(60f);
     [SerializeField] SpawnManager spawnManager;
 
-    float constantRoundTimer;
+    public float constantRoundTimer;
 
     public override void Awake()
     {
@@ -30,7 +28,7 @@ public class GameManager : NetworkSingleton<GameManager>
 
         roundTimer.Value = localRoundTimer;
         _scores = new float[2];
-        for (int i =0; i < _scores.Length; i++)
+        for (int i = 0; i < _scores.Length; i++)
         {
             _scores[i] = 0;
         }
@@ -51,7 +49,7 @@ public class GameManager : NetworkSingleton<GameManager>
     [ServerRpc]
     public void UpdateScoreServerRpc(int HunterOrHunted)
     {
-     
+
         UpdateScoreClientRpc(HunterOrHunted);
     }
 
@@ -76,7 +74,7 @@ public class GameManager : NetworkSingleton<GameManager>
     void Update()
     {
         if (!IsSpawned) return;
-        
+
         if (IsServer)
         {
             if (localRoundTimer > 0 && isRoundActive)
@@ -96,7 +94,7 @@ public class GameManager : NetworkSingleton<GameManager>
             }
         }
 
-            timerText.text = ((int)roundTimer.Value).ToString();
+        timerText.text = ((int)roundTimer.Value).ToString();
     }
 
 
@@ -105,8 +103,10 @@ public class GameManager : NetworkSingleton<GameManager>
     {
         if (IsServer)
         {
-            if (NetworkManager.Singleton.IsListening) WinningGameClientRpc(winner);
-
+            if (NetworkManager.Singleton.IsListening)
+            {
+                WinningGameClientRpc(winner);
+            }
         }
     }
 
@@ -115,9 +115,9 @@ public class GameManager : NetworkSingleton<GameManager>
     {
         if (winningText != null)
         {
-             winningText.text = winner;
-             winningText.gameObject.SetActive(true);
-            roundTimer.Value = constantRoundTimer;
+            winningText.text = winner;
+            winningText.gameObject.SetActive(true);
+
             Invoke(nameof(HideWinningText), 3f);
 
         }
@@ -126,7 +126,7 @@ public class GameManager : NetworkSingleton<GameManager>
     void HideWinningText()
     {
         winningText.gameObject.SetActive(false);
-    }   
+    }
 
     public void ResetPosition(Transform Hunter, Transform Hunted)
     {
