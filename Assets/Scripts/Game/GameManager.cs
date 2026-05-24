@@ -85,13 +85,15 @@ public class GameManager : NetworkSingleton<GameManager>
             else if (isRoundActive)
             {
                 EndGame("The collector wins!");
-                timerText.gameObject.SetActive(false);
+                //timerText.gameObject.SetActive(false);
                 UpdateScoreServerRpc(1); // The thief wins
                 ResetPosition(spawnManager.spawnedClones[0].transform, spawnManager.spawnedClones[1].transform);
                 localRoundTimer = 0;
                 roundTimer.Value = 0;
                 isRoundActive = false;
             }
+         
+          
         }
 
         timerText.text = ((int)roundTimer.Value).ToString();

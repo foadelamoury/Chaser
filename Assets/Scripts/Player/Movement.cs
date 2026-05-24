@@ -59,8 +59,8 @@ public class Movement : MonoBehaviour, IMovable, ITurnable
     {
         currentSpeed = 0f;
         rb.linearVelocity = Vector2.zero;
-        rb.rotation = 0f;
-        transform.rotation = Quaternion.identity;
+        //rb.rotation = 0f;
+        //transforms.rotation = Quaternion.identity;
     }
 
 
