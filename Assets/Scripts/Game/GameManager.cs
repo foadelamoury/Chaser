@@ -91,9 +91,13 @@ public class GameManager : NetworkSingleton<GameManager>
                 localRoundTimer = 0;
                 roundTimer.Value = 0;
                 isRoundActive = false;
+                roundTimer.Value = constantRoundTimer;
+                localRoundTimer = constantRoundTimer;
+                isRoundActive = true;
+
             }
-         
-          
+
+
         }
 
         timerText.text = ((int)roundTimer.Value).ToString();
@@ -134,6 +138,7 @@ public class GameManager : NetworkSingleton<GameManager>
     {
         Hunter.position = spawnManager.spawnPoints[0].position;
         Hunted.position = spawnManager.spawnPoints[1].position;
-
+        Hunter.rotation = Quaternion.identity;
+        Hunted.rotation = Quaternion.identity;
     }
 }
